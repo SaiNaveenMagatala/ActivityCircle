@@ -1,0 +1,16 @@
+PODS:
+  - ActivityCircle (0.1.0)
+
+DEPENDENCIES:
+  - ActivityCircle (from `../`)
+
+EXTERNAL SOURCES:
+  ActivityCircle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ActivityCircle: 958b0e7bddc9183df9fe997a20ef8eb67ef63991
+
+PODFILE CHECKSUM: 8a96b0d2045295fa8d5383b35a5809211c8ca818
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module ActivityCircle {
+  umbrella header "ActivityCircle-umbrella.h"
+
+  export *
+  module * { export * }
+}

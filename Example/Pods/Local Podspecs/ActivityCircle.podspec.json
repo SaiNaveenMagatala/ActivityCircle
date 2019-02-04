@@ -1,0 +1,23 @@
+{
+  "name": "ActivityCircle",
+  "version": "0.1.0",
+  "summary": "Draws an activity circle around a circular view",
+  "swift_version": "4.2",
+  "description": "* Draws one or more activity circles around any circular views.",
+  "homepage": "https://github.com/SaiNaveenMagatala/ActivityCircle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NaveenMagatala": "naveenmagatala@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/SaiNaveenMagatala/ActivityCircle.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "ActivityCircle/Classes/**/*"
+}
