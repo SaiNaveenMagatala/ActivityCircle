@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ActivityCircle_Example' do
+  pod 'ActivityCircle', :path => '../'
+
+  target 'ActivityCircle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
